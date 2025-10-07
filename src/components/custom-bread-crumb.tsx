@@ -9,7 +9,7 @@ import {
 import { Home } from "lucide-react";
 import React from "react";
 
-interface CustomBreadCrumbProps {
+interface CustomBreadCrumbProps {                
   breadCrumbPage: string;
   breadCrumpItems?: { link: string; label: string }[];
 }
