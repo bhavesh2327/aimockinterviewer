@@ -1,2 +1,3 @@
 AIMockInterviewer is an application designed to simulate mock interviews using AI. This tool helps users prepare for real interviews by providing realistic questions and feedback based on their responses.
  
+                      
